@@ -50,3 +50,5 @@ When you push your source code. Don't push your .env file. (add .env into .gitig
 2. Add Environment value here. the variable name mush be same with the one you use in you local machine. 
    But the value will be different. put the my-json server url as a value
 ![](https://imgur.com/liosOM9.png)
+Demo:
+https://app.netlify.com/sites/jovial-albattani-d24f11/overview
